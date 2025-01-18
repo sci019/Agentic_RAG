@@ -1,5 +1,11 @@
 # 導入方法
 
+```
+# wsl
+# cat /etc/os-release
+PRETTY_NAME="Ubuntu 24.04.1 LTS"
+```
+
 1. ollamaインストール
 ```shell
 curl -fsSL https://ollama.com/install.sh | sh
